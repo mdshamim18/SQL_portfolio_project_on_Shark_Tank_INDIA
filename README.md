@@ -21,4 +21,5 @@ The dataset was collected and queried using SQL server.
 11. From which location has the most contestants?
 12. Which sector has the most contestants?
 13. What are the number of deals which are made by more than one shark?
+14. Which startup has received the highest amount of investment in each domain or sector?
 
