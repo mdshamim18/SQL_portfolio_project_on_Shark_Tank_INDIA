@@ -51,28 +51,26 @@ The dataset contains detailed information about the startups that appeared on "S
 ## Analysis and Results
 
 ### Startup Success Analysis
-- **Success Rate:** 75% of startups secured deals, indicating a healthy investment climate.
-- **Funding Dynamics:** On average, startups asked for $100,000 but received $85,000, showing a 15% reduction from ask to actual investment.
+- **Success Rate:** 58% of startups secured deals, indicating a healthy investment climate.
+- **Funding Dynamics:** On average, startups asked for average 60,00,000 but received 56,00,000, showing a 7% reduction from ask to actual investment.
 
 ### Shark Investment Patterns
-- **Frequent Investors:** Shark 'Ashneer' invested in 30 deals, the highest among all.
-- **Equity Taken:** On average, Shark 'Namita' took 20% equity, which is higher than the average of 15% taken by others.
+- **Frequent Investors:** Shark 'Aman' invested in 29 deals, the highest among all.
+- **Equity Taken:** On average, Shark 'Vineeta' took 10% equity, which is higher than the average of 7% taken by others.
 
 ### Sector-Wise Investment Analysis
-- **Popular Sectors:** Technology sector attracted 40% of total investments.
-- **Deal Size:** Average deal size in the Healthcare sector was $120,000, the highest among all sectors.
+- **Popular Sectors:** Lifestyle sector attracted 40% of total investments.
+- **Deal Size:** Average deal size in the lifestyle sector was 10,06,00,000, the highest among all sectors.
 
 ### Geographical Analysis
-- **Location Trends:** 50% of startups were based in New York.
-- **Location Success Rate:** Startups in Silicon Valley had an 80% success rate, the highest among all regions.
+- **Location Trends:** 50% of startups were based in Ahmedabad, Bengalore, Kolkata.
+- **Location Success Rate:** Startups in these cities had an 60% success rate, the highest among all regions.
 
 ### Gender-Based Analysis
 - **Gender Comparison:** Female-founded startups had a 65% success rate, compared to 70% for male-founded startups.
-- **Investment Amounts:** Female-founded startups received an average of $90,000 per deal, compared to $100,000 for male-founded startups.
 
 ### Episode-Wise Trends
-- **Deal and Investment Tracking:** Episodes 1-10 had 50 deals with $5M total investments.
-- **Investment Trends:** Increasing trend in investment amounts, peaking at $1M in episode 10.
+- **Deal and Investment Tracking:** Episodes 1-10 had 50 deals with 2cr 80lakhs total investments.
 
 ## Conclusion
 This project demonstrates the power of SQL in extracting actionable business insights from investment data. By understanding the dynamics of startup funding, investment patterns of sharks, and sector-wise trends, entrepreneurs and investors can make more informed decisions. The analyses also shed light on geographical and gender-based disparities, providing a comprehensive overview of the startup investment landscape.
