@@ -88,28 +88,28 @@ This project demonstrates the power of SQL in extracting actionable business ins
 
 ## Questions :
 
--- 1. Retrieve all data from the table
--- 2. Total episodes in the Shark Tank India
--- 3. Total pitches pitched by the startups
--- 4. Total male contestants in the Shark Tank India
--- 5. Total female contestants in the Shark Tank India
--- 6. Success rate of the startups
--- 7. Top 5 sectors with the most investment
--- 8. Average amount asked vs average amount invested
--- 9. Total investment of the individual sharks
--- 10. Average equity taken by shark sector-wise
--- 11. Geographical analysis
--- 12. Episode-wise trends
--- 13. Deals made by multiple sharks
--- 14. Identify episodes where deals were made with more than 3 team members
--- 15. Number of deals and total investment per sector
--- 16. Calculate the average asked amount by all entrepreneurs
--- 17. Calculate the total number of male and female contestants without considering their average age
--- 18. Retrieve the episode number and brand name for episodes where deals were made
--- 19. Find the top 5 locations with the highest average amount invested (in lakhs)
--- 20. List the brands that received investments from all the sharks (Ashneer, Namita, Anupam)
--- 21. Calculate the average equity taken by each sector
--- 22. Calculate the total investment amount made by each shark individually
--- 23. Find episodes where the amount invested by Ashneer is more than the total amount invested by all other sharks combined
--- 24. Determine the average equity asked by entrepreneurs from different locations, excluding episodes where no deals were made
+1. Retrieve all data from the table
+2. Total episodes in the Shark Tank India 
+3. Total pitches pitched by the startups
+4. Total male contestants in the Shark Tank India
+5. Total female contestants in the Shark Tank India
+6. Success rate of the startups
+7. Top 5 sectors with the most investment
+8. Average amount asked vs average amount invested
+9. Total investment of the individual sharks
+10. Average equity taken by shark sector-wise
+11. Geographical analysis
+12. Episode-wise trends
+13. Deals made by multiple sharks
+14. Identify episodes where deals were made with more than 3 team members
+15. Number of deals and total investment per sector
+16. Calculate the average asked amount by all entrepreneurs
+17. Calculate the total number of male and female contestants without considering their average age
+18. Retrieve the episode number and brand name for episodes where deals were made
+19. Find the top 5 locations with the highest average amount invested (in lakhs)
+20. List the brands that received investments from all the sharks (Ashneer, Namita, Anupam)
+21. Calculate the average equity taken by each sector
+22. Calculate the total investment amount made by each shark individually
+23. Find episodes where the amount invested by Ashneer is more than the total amount invested by all other sharks combined
+24. Determine the average equity asked by entrepreneurs from different locations, excluding episodes where no deals were made
 
