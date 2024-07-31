@@ -112,4 +112,6 @@ This project demonstrates the power of SQL in extracting actionable business ins
 22. Calculate the total investment amount made by each shark individually
 23. Find episodes where the amount invested by Ashneer is more than the total amount invested by all other sharks combined
 24. Determine the average equity asked by entrepreneurs from different locations, excluding episodes where no deals were made
+25. Ranking deals by the investment wise taken from the sharks
+26. Third highest investment taken from the shark
 
