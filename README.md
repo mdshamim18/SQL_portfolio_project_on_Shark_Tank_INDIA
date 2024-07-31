@@ -67,7 +67,7 @@ The dataset contains detailed information about the startups that appeared on "S
 - **Location Success Rate:** Startups in these cities had an 60% success rate, the highest among all regions.
 
 ### Gender-Based Analysis
-- **Gender Comparison:** Female-founded startups had a 65% success rate, compared to 70% for male-founded startups.
+- **Gender Comparison:** Female-founded startups had a 63% success rate, compared to 53% for male-founded startups and Male-Female both founded startups had a success rate 56%.
 
 ### Episode-Wise Trends
 - **Deal and Investment Tracking:** Episodes 1-10 had 50 deals with 2cr 80lakhs total investments.
