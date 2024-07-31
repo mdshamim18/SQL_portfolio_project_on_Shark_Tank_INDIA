@@ -114,4 +114,5 @@ This project demonstrates the power of SQL in extracting actionable business ins
 24. Determine the average equity asked by entrepreneurs from different locations, excluding episodes where no deals were made
 25. Ranking deals by the investment wise taken from the sharks
 26. Third highest investment taken from the shark
+27. Gender based analysis
 
