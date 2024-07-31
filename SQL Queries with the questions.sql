@@ -196,3 +196,24 @@ FROM (
     FROM sti
 ) AS ranked
 WHERE rnk=3;
+
+-- 27. Gender based analysis
+
+SELECT 
+    CASE 
+        WHEN male > 0 AND female = 0 THEN 'Male Only'
+        WHEN male = 0 AND female > 0 THEN 'Female Only'
+        WHEN male > 0 AND female > 0 THEN 'Mixed'
+        ELSE 'Unknown'
+    END AS gender,
+    COUNT(*) AS total_startups,
+    SUM(deal_offered) AS startups_with_deals,
+    (SUM(deal_offered) * 100.0 / COUNT(*)) AS success_rate
+FROM sti
+GROUP BY 
+    CASE 
+        WHEN male > 0 AND female = 0 THEN 'Male Only'
+        WHEN male = 0 AND female > 0 THEN 'Female Only'
+        WHEN male > 0 AND female > 0 THEN 'Mixed'
+        ELSE 'Unknown'
+    END;
